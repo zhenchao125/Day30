@@ -9,7 +9,6 @@ public class MainActivity extends AppCompatActivity{
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //远程修改
         // 远程修改的代码
         //新增代码
         /*
